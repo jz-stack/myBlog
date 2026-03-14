@@ -1,0 +1,29 @@
+{
+  "name": "my-blog",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue/shared": "^3.5.30",
+    "axios": "^1.6.2",
+    "element-plus": "^2.4.4",
+    "highlight.js": "^11.9.0",
+    "marked": "^11.1.0",
+    "pinia": "^2.1.7",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "@vitejs/plugin-vue": "^4.5.2",
+    "sass": "^1.69.5",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.8",
+    "vue-tsc": "^1.8.25"
+  }
+}
