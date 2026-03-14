@@ -33,9 +33,6 @@ dist-ssr
 # Vite
 .vite
 
-# Vue
-*.vue
-
 # TypeScript
 *.tsbuildinfo
 node_modules/.vite
